@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FileDBApp</string>
+    <string name="app_title">Сохранение данных</string>
+    <string name="app_db_title">База данных</string>
+    <string name="app_file_title">Файловая система</string>
+    <string name="button_db_title">Работа с базой данных</string>
+    <string name="button_file_title">Работа с файловой системой</string>
+    <string name="empty_str_msg">Введите строку</string>
+    <string name="act_file_title">Работа с файлами</string>
+    <string name="act_file_btn_add">Добавить</string>
+</resources>
